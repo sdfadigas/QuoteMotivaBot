@@ -1,0 +1,2 @@
+# QuoteMotivaBot
+documentação em construção
