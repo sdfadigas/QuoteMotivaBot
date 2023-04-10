@@ -1,2 +1,2 @@
 # QuoteMotivaBot
-documentação em construção
+Bot de Telegram de mensagens motivacionais em Java
